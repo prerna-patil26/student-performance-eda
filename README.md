@@ -21,7 +21,7 @@ The dataset contains multiple attributes related to student performance, includi
 - **Exam Performance**: Exam scores, final grades  
 - **Lifestyle Factors**: Stress level, sleep hours, social media usage  
 
-📌 **Dataset Source**: *[Provide source link if available]*  
+📌 **Dataset Source**: [Student Performance & Learning Style](https://www.kaggle.com/datasets/adilshamim8/student-performance-and-learning-style)
 
 ---
 
