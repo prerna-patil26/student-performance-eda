@@ -67,8 +67,8 @@ jupyter notebook
 Open Student_Performance.ipynb and execute the cells to generate insights.
 
 ## 📢 Contact
-For any questions or collaborations:
-🔗 LinkedIn: [Prerna Patil](https://www.linkedin.com/in/prerna-patil26)
-📧 Email: prernapatil2608@gmail.com
+- For any questions or collaborations:
+- 🔗 LinkedIn: [Prerna Patil](https://www.linkedin.com/in/prerna-patil26)
+- 📧 Email: prernapatil2608@gmail.com
 
 ⭐ If you found this EDA useful, give it a star! ⭐
